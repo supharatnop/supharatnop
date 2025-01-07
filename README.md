@@ -2,6 +2,8 @@
 
 ### :woman_technologist: About Me :
 I am a Mobile Developer from Thailand.
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
