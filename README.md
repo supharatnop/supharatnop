@@ -1,4 +1,7 @@
 ## Hi there 👋
+---
+
+### :woman_technologist: About Me :
 
 <!--
 **supharatnop/supharatnop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
