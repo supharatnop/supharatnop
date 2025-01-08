@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me :
 I am a Mobile Developer from Thailand.
 
-<!--
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,7 +18,7 @@ I am a Mobile Developer from Thailand.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
 
 </div>
--->
+
 
 <!--
 **supharatnop/supharatnop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
